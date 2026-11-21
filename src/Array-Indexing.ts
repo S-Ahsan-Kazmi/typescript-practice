@@ -23,7 +23,7 @@ console.log("First Student:",studentNames[0]);
 console.log("Third Student:",studentNames[2]);
 console.log("Fifth Student:",studentNames[4]);
 
-// Question 12 — Array Indexing
+// Question 2 — Array Indexing
 
 // Type: Basic
 
