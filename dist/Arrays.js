@@ -45,3 +45,30 @@ let activeStatuses = [true, false, true, true, false];
 console.log(names);
 console.log(ages);
 console.log(activeStatuses);
+// Question 4 — Arrays
+// Type: Basic
+// Description:
+// Ek array banao jisme 7 subjects ke marks store hon.
+// Expected Output:
+// [85, 72, 90, 65, 78, 88, 95]
+// Task:
+// - TypeScript mein array declare karo.
+// - Array ka data type explicitly define karo.
+// - Array mein 7 subjects ke marks store karo.
+// - Array ko console mein print karo.
+// Is question mein abhi sirf array declaration aur data types ki practice karni hai. Koi higher order function use nahi karna.
+let subjectsMarks = [85, 72, 90, 65, 78, 88, 95];
+console.log(subjectsMarks);
+// Question 5 — Arrays
+// Type: Basic
+// Description:
+// Ek array banao jisme 5 employees ki salaries store hon.
+// Expected Output:
+// [35000, 45000, 55000, 65000, 75000]
+// Task:
+// - TypeScript mein array declare karo.
+// - Array ka data type explicitly define karo.
+// - 5 employees ki salaries store karo.
+// - Array ko console mein print karo.
+let employeesSalaries = [35000, 45000, 55000, 65000, 75000];
+console.log(employeesSalaries);
